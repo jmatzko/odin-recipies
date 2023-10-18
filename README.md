@@ -1,2 +1,2 @@
 # odin-recipies
-first website
+first website using html skills
