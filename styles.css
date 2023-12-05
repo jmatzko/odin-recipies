@@ -1,3 +1,5 @@
+/* for the front page */
+
 h1 {
 
     font-family: verdana, sans-serif;
@@ -19,3 +21,12 @@ text-align: center;
 font-size: 18px;
 }
 
+/* for the mac and cheese page */
+
+img {
+    height: 300px;
+    width: auto;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
